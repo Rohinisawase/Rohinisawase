@@ -8,8 +8,8 @@
 <p align="center">
   📍 Maharashtra, India  
   🎓 CDAC Graduate  
-  📧 your-email@example.com  
-  🔗 <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  📧 sawaserohini@gmail.com  
+  🔗 <a href="www.linkedin.com/in/rohini-sawase">LinkedIn</a>
 </p>
 
 ---
